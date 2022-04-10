@@ -1,0 +1,200 @@
+ .body{
+     background-color: purple;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 40px;
+ }
+ .navbar{
+        background-color: rgb(30, 60, 59);
+        margin: auto;
+    }
+
+.logo{
+padding-left:30px;
+
+}
+    .nome{
+        color: white;
+       
+    }
+  
+
+.nav1{
+    background-color: rgb(113, 252, 252);
+    border:solid 5px black;
+    
+  
+}
+
+   
+.assatual{
+    color: brown;
+}
+ 
+
+.content{
+margin: auto;
+max-width: 900px;
+background-color: #eee;
+padding: 10px;
+}
+
+.modal{
+   
+    font-size: 22px;
+    color: white;   
+    
+}
+.modal-content{
+    margin-top: 70%;
+    max-width: 900px;
+    background-color: rgb(0, 0, 0);
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+    font-style: italic;
+  
+}
+
+.form{
+padding-left: 50px;
+padding-right: 500px;
+}
+
+.forum{
+    display: inline-flex;
+}
+
+.au{
+    font-size: 25px;
+    padding-left: 10px;
+    display:inline-flex;
+}
+
+.pesquisa{
+    border:solid 5px rgb(0, 0, 0);
+    
+}
+
+.pes{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 40px;
+    border: solid 5px rgb(0, 0, 0);
+    width: 140%;
+ }
+
+.maispesquisados{
+    background-color: aquamarine;
+    border: solid 5px black;
+    padding: 44px 146px  0px 1px ;
+    width: 26%;
+min-width: 250px;
+display: inline-block;
+vertical-align: top;
+font-size: 20px;
+}
+
+.pesquisar{
+    color:black;
+    background-color: rgb(7, 240, 236);
+    box-shadow: cyan;
+}
+
+.resultado{
+    background-color: aquamarine;
+     border:solid 5px black;
+     width: 30%;
+    float:right;
+     margin-right: 0px;
+    text-align: right;
+    padding-bottom: 140px;
+    min-width:40px;
+    font-size: 20px;
+   
+}
+
+.texto{
+    font-size:  25px;
+    text-align: center;
+    width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.res{
+    font-size: 35px;
+}
+
+.tec{
+    padding: 10px 10px 10px 10px;
+}
+
+.dropdown{
+    font-size: 50px;
+    size: 100px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.border{
+    color: red;
+    text-align: center;
+}
+
+.scroll{
+    position: absolute;
+    left: 83%;
+    top: 66%;
+    transform: translate(-50%,-50%);
+    width: 450px;
+    height: 500px;
+    padding: 15px 2%;
+    overflow-y: scroll;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    background-color: rgb(163, 246, 250);
+    border: solid 5px black;
+    min-width: 34%;
+    min-height: 92%;
+    font-size: 20px;
+ }
+ 
+ .box{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(79, 181, 172);
+    border-radius: 15px;
+   margin: auto;
+   padding-top: 10px;
+ }
+ 
+ .scroll2{
+    position: absolute;
+    left: 46%;
+    top: 55%;
+    transform: translate(-50%,-50%);
+    width: 450px;
+    height: 500px;
+    padding: 15px 2%;
+    overflow-y: scroll;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    background-color: rgb(163, 246, 250);
+    border: solid 5px black;
+    min-width: 40%;
+    min-height: 69.2%;
+ font-size: 20px;
+ }
+
+ .simular{
+    position: absolute;
+    top:100%;
+    left:46%;
+    transform: translate(-50%,-50%);
+    height: 110px;
+    width: 40%;
+    padding: 15px 2%;
+    font-size: 20px;
+ }
+
+.footer{
+    background-color: black;
+    color: white;
+    min-height: 100px;
+    padding-top: 15px;
+    padding-right: 100px;
+ }
